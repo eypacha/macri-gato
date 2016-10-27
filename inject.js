@@ -1,18 +1,26 @@
-// this is the code which will be injected into a given page...
-var elements = document.getElementsByTagName('*');
+var matches = document.documentElement.innerHTML.match(/Macri/);
 
-for (var i = 0; i < elements.length; i++) {
-    var element = elements[i];
+if(matches != null){
+    
+    gatear();
+}
 
-    for (var j = 0; j < element.childNodes.length; j++) {
-        var node = element.childNodes[j];
+function gatear(){
+    var elementos = document.getElementsByTagName('*');
 
-        if (node.nodeType === 3) {
-            var text = node.nodeValue;
-           var replacedText = text.replace(/(Mauri(cio)? )?Macri(?! Gato)/g,'Macri Gato');
-           
-            if (replacedText !== text) {
-                element.replaceChild(document.createTextNode(replacedText), node);
+    for (var i = 0; i < elementos.length; i++) {
+        var elemento = elementos[i];
+
+        for (var j = 0; j < elemento.childNodes.length; j++) {
+            var node = elemento.childNodes[j];
+
+            if (node.nodeType === 3) {
+               var original = node.nodeValue;
+               var sinceramiento = original.replace(/(Mauri(cio)? )?Macri(?! Gato)/g,'Macri Gato');
+
+                if (sinceramiento !== original) {
+                    elemento.replaceChild(document.createTextNode(sinceramiento), node);
+                }
             }
         }
     }

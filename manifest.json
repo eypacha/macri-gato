@@ -1,16 +1,24 @@
 {
   "name": "Macri Gato",
-  "version": "1.0",
+  "version": "1.1",
   "manifest_version": 2,
   "description": "Cambia “Mauricio Macri” por “Macri Gato” cada vez que aparece.",
-  "homepage_url": "http://eypacha.com.ar",
+  "homepage_url": "http://macrigato.com.ar",
   "icons": {
       "16": "icon16.png",
       "48": "icon48.png",
       "128": "icon128.png" },
-   "content_scripts": [ {
+  "content_scripts": [ {
       "js": [ "inject.js" ],
       "matches": [ "*://*/*" ],
       "run_at": "document_end"
-   } ]
+   } ],
+  "browser_action": {
+    "default_title": "Macri Gato",
+    "default_icon": "icon48.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "tabs", "http://*/*", "https://*/*"
+  ]
 }
