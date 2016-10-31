@@ -1,5 +1,5 @@
-# MACRI GATO CHROME EXTENSION
-Extensión para Google Chrome que cambia “Mauricio Macri” por “Macri Gato” cada vez que aparece.
+# MACRI GATO CHROME & FIREFOX EXTENSION
+Extensión para Google Chrome o Mozilla Firefox que cambia “Mauricio Macri” por “Macri Gato” cada vez que aparece.
 
  - Web Oficial: [macrigato.com.ar](http://macrigato.com.ar)
  - Disponible en el [Chrome Web
