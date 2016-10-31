@@ -16,6 +16,7 @@
   "content_scripts": [ {
       "js": [ "inject.js" ],
       "matches": [ "*://*/*" ],
+      "exclude_matches": [ "*://developer.mozilla.org/*", "*://*.macrigato.com.ar/*" ],
       "run_at": "document_end"
    } ],
   "browser_action": {
