@@ -17,4 +17,5 @@ Extensión para Google Chrome que cambia “Mauricio Macri” por “Macri Gato�
 Si tienes alguna sugerencia, crítica o consulta no dudes en [escribirme un correo](mailto:pachaguionbajo@gmail.com?Subject=MacriGato%20v1.1).
 
 # Créditos:
-Hecho por: [Ey Pacha!](http://eypacha.com.ar)
+Hecho por: [Ey Pacha!](http://eypacha.com.ar).
+Colaboradores: Leonardo Almiñana, Gabriel La Torre,
