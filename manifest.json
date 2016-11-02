@@ -1,6 +1,6 @@
 {
   "name": "Macri Gato",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "manifest_version": 2,
   "description": "Cambia “Mauricio Macri” por “Macri Gato” cada vez que aparece.",
   "homepage_url": "http://macrigato.com.ar",
