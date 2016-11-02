@@ -16,7 +16,7 @@ Colaboradores: Leonardo Almiñana, [Gabriel La Torre](https://github.com/shizus)
 
 # Updates
 
-**Versión 1.0.5** (lanzada el 1 de Noviembre de 2016)
+**Versión 1.0.6** (lanzada el 1 de Noviembre de 2016)
 * Código optimizado para mejorar el rendimiento.
 * Correción de UTF
 * Otros cambios menores.
