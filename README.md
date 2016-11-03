@@ -20,10 +20,9 @@ Colaboradores: Leonardo Almiñana, [Gabriel La Torre](https://github.com/shizus)
 * Reducción de código para mayor velocidad.
 
 **Versión 1.0.7 (lanzada el 1 de Noviembre de 2016)
-
-Código optimizado para mejorar el rendimiento.
-Correción de UTF
-Otros cambios menores.
+* Código optimizado para mejorar el rendimiento.
+* Correción de UTF
+* Otros cambios menores.
 
 **Versión 1.0.5** (lanzada el 27 de Octubre de 2016)
 * Código optimizado para mejorar el rendimiento.
