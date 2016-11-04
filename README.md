@@ -32,7 +32,7 @@ Colaboradores: Leonardo Almiñana, [Gabriel La Torre](https://github.com/shizus)
 # Repercuciones mediáticas:
 
 **Programas de Radio*
-* (Furia Bebé de FuturoRock.fm)[https://soundcloud.com/ey-pacha/macrigato-en-furia-bebe]. 27/10/2016.
+* Furia Bebé de FuturoRock.fm [Recorte](https://soundcloud.com/ey-pacha/macrigato-en-furia-bebe). 27/10/2016.
 
 **Medios digitales**
 * Diario Registrado. [Otra aplicación de Google que juega a agregarle palabras a todo lo que diga Macri](http://www.diarioregistrado.com/sociedad/otra-aplicacion-de-google-que-juega-a-agregarle-palabras-a-todo-lo-que-diga-macri_a5808e4400c297bac2b684fd9). 20/10/2016 
@@ -46,7 +46,7 @@ Colaboradores: Leonardo Almiñana, [Gabriel La Torre](https://github.com/shizus)
 * Infomisiones.net [“Macri Gato”: La insólita aplicación que transforma los títulos de los portales de internet](http://www.infomisiones.net/macri-gato-la-insolita-aplicacion-que-transforma-los-titulos-de-los-portales-de-internet/). 28/10/2016.
 
 **Redes sociales**
-* Hay que dejar de robar con Pigna por dos años https://www.facebook.com/permalink.php?story_fbid=728271650658740&id=211627212323189
-* Lo que resta del día [https://www.facebook.com/loquerestaunr/posts/1135118389871106]
-* Vamos a Volver. [https://www.facebook.com/VamosAVolverNoticias/posts/1275940152479747]
-* En Twitter [https://twitter.com/search?q=macrigato.com.ar]
+* Facebook [Hay que dejar de robar con Pigna por dos años](https://www.facebook.com/permalink.php?story_fbid=728271650658740&id=211627212323189)
+* Faebook [Lo que resta del día](https://www.facebook.com/loquerestaunr/posts/1135118389871106)
+* Facebook [Vamos a Volver](https://www.facebook.com/VamosAVolverNoticias/posts/1275940152479747)
+* En Twitter [Menciones](https://twitter.com/search?q=macrigato.com.ar)
