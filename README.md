@@ -1,10 +1,12 @@
 # MACRI GATO WEB EXTENSION
 Extensión para Google Chrome o Mozilla Firefox que cambia “Mauricio Macri” por “Macri Gato” cada vez que aparece.
 
- - Web Oficial: [macrigato.com.ar](http://macrigato.com.ar)
- - Disponible en el [Chrome Web
+- Web Oficial: [macrigato.com.ar](http://macrigato.com.ar)
+- Disponible en el [Chrome Web
    Store](https://chrome.google.com/webstore/detail/macri-gato/lnjjbgjmogkocampmlmikfggonalliej).
-
+- Disponible en el [Mozilla Web
+   Store](https://addons.mozilla.org/es/firefox/addon/macrigato).
+   
 ![Screenshot](https://raw.githubusercontent.com/eypacha/macri-gato/master/screenshots/google-888.jpg)
 
 # Contacto:
@@ -12,6 +14,7 @@ Si tienes alguna sugerencia, crítica o consulta no dudes en [escribirme un corr
 
 # Créditos:
 Hecho por: [Ey Pacha!](http://eypacha.com.ar)
+
 Colaboradores: Leonardo Almiñana, [Gabriel La Torre](https://github.com/shizus), [Dann](https://twitter.com/Dannroda), [Niv Sardi](https://github.com/xaiki).
 
 # Updates:
@@ -47,6 +50,7 @@ Colaboradores: Leonardo Almiñana, [Gabriel La Torre](https://github.com/shizus)
 
 **Redes sociales**
 * Facebook [Hay que dejar de robar con Pigna por dos años](https://www.facebook.com/permalink.php?story_fbid=728271650658740&id=211627212323189)
-* Faebook [Lo que resta del día](https://www.facebook.com/loquerestaunr/posts/1135118389871106)
+* Facebook [Lo que resta del día](https://www.facebook.com/loquerestaunr/posts/1135118389871106)
 * Facebook [Vamos a Volver](https://www.facebook.com/VamosAVolverNoticias/posts/1275940152479747)
-* En Twitter [Menciones](https://twitter.com/search?q=macrigato.com.ar)
+* En Twitter [Buscar menciones](https://twitter.com/search?q=macrigato.com.ar)
+*
