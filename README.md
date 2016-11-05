@@ -34,7 +34,7 @@ Colaboradores: Leonardo Almiñana, [Gabriel La Torre](https://github.com/shizus)
 
 # Repercuciones mediáticas:
 
-**Programas de Radio*
+**Programas de Radio**
 * Furia Bebé de FuturoRock.fm [Recorte](https://soundcloud.com/ey-pacha/macrigato-en-furia-bebe). 27/10/2016.
 * La Noche de Japón de Patagonia POP 90.3. [Recorte](http://radiocut.fm/radiostation/patagonia-pop/listen/2016/11/04/16/00/00/). 04/11/2016
 
