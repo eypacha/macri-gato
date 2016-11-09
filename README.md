@@ -48,6 +48,7 @@ Colaboradores: Leonardo Almiñana, [Gabriel La Torre](https://github.com/shizus)
 * 24con  [Increíble: una app modifica los títulos web y les pone “Macri Gato”](http://www.24con.com/nota/157071-increible-una-app-modifica-los-titulos-web-y-les-pone-macri-gato/). 30/10/2016.
 * El Destape. [La historia detrás de la app Macri Gato que es viral en las redes](http://www.eldestapeweb.com/la-historia-detras-la-app-macri-gato-que-es-viral-las-redes-sociales-n22270). 31/10/2016.
 * Infomisiones.net [“Macri Gato”: La insólita aplicación que transforma los títulos de los portales de internet](http://www.infomisiones.net/macri-gato-la-insolita-aplicacion-que-transforma-los-titulos-de-los-portales-de-internet/). 28/10/2016.
+* Tribuna Hacker [‘Macri Gato’ una extensión para Chrome (indispensable)](http://www.tribunahacker.com.ar/2016/11/macri-gato-gato-una-extension-para-chrome-indispensable) 08/11/2016.
 
 **Redes sociales**
 * Facebook [Hay que dejar de robar con Pigna por dos años](https://www.facebook.com/permalink.php?story_fbid=728271650658740&id=211627212323189)
