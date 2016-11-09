@@ -34,9 +34,9 @@ Colaboradores: Leonardo Almiñana, [Gabriel La Torre](https://github.com/shizus)
 
 # Repercuciones mediáticas:
 
-**Programas de Radio**
+**Programas de Radio**i
 * Furia Bebé de FuturoRock.fm [Recorte](https://soundcloud.com/ey-pacha/macrigato-en-furia-bebe). 27/10/2016.
-* La Noche de Japón de Patagonia POP 90.3. [Recorte](http://radiocut.fm/radiostation/patagonia-pop/listen/2016/11/04/16/00/00/). 04/11/2016
+* La Noche de Japón de Patagonia POP 90.3. [Recorte](https://soundcloud.com/ey-pacha/macrigato-en-la-noche-de-japon). 04/11/2016
 
 **Medios digitales**
 * Diario Registrado. [Otra aplicación de Google que juega a agregarle palabras a todo lo que diga Macri](http://www.diarioregistrado.com/sociedad/otra-aplicacion-de-google-que-juega-a-agregarle-palabras-a-todo-lo-que-diga-macri_a5808e4400c297bac2b684fd9). 20/10/2016 
