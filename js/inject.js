@@ -1,5 +1,3 @@
-var storage = chrome.storage.local;
-
 function gatear(){
     var node,
         ni = document.createNodeIterator(document.documentElement, NodeFilter.SHOW_TEXT);
@@ -7,14 +5,14 @@ function gatear(){
     while(node = ni.nextNode()) {
         var value = node.nodeValue
         if (value.match(/macri/i)) {
-              node.nodeValue = value.replace(/(Mauri(cio)? )?Macri(?! Gato)/gi,'Macri Gato');
+            
+            node.nodeValue = value.replace(/(M|m)acris(mo|ta)/gi,'$1acrigatis$2').replace(/(Mauri(cio)? )?Macri(?! Gato)/g,'Macri Gato');
         }
     }
 }
 
-storage.get("automatic", function(result) {
+chrome.storage.local.get("automatic", function(result) {
     if (result.automatic || typeof result.automatic == "undefined"){
         gatear();
     }
 });
-
