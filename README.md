@@ -19,6 +19,10 @@ Colaboradores: Leonardo Almiñana, [Gabriel La Torre](https://github.com/shizus)
 
 # Updates:
 
+**Versión 1.0.9** (lanzada el 22 de Noviembre de 2016)
+* Bugs fixed: "macrigatismo", "macrigatista".
+* Opciones (modo automático ON-OFF).
+
 **Versión 1.0.8** (lanzada el 2 de Noviembre de 2016)
 * Reducción de código para mayor velocidad.
 
@@ -34,7 +38,7 @@ Colaboradores: Leonardo Almiñana, [Gabriel La Torre](https://github.com/shizus)
 
 # Repercuciones mediáticas:
 
-**Programas de Radio**i
+**Programas de Radio**
 * Furia Bebé de FuturoRock.fm [Recorte](https://soundcloud.com/ey-pacha/macrigato-en-furia-bebe). 27/10/2016.
 * La Noche de Japón de Patagonia POP 90.3. [Recorte](https://soundcloud.com/ey-pacha/macrigato-en-la-noche-de-japon). 04/11/2016
 
