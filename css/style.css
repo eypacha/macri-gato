@@ -1,0 +1,66 @@
+ html,body{
+     min-width:350px;
+     margin: 0px;
+     background-color: white
+ }
+.ajf {
+    text-align: justify;
+}
+.alf {
+    text-align: left;
+}
+.ss {
+    font-size: 10pt;
+}
+#modoAutomaticoLabel{
+    color: darkgreen;
+}
+ a{
+     color:#f90;
+     text-decoration:none;
+ }
+ a:hover{
+    text-decoration:underline;
+ }
+ h1{
+    font-size: 12pt;
+    padding: 5px;
+    margin: 0px;
+    border-bottom: 1px solid silver;
+ }
+ h1 small{
+     font-size: 12pt;
+     font-weight: 400;
+     float: right;
+ }
+ h3{
+    font-size: 16pt;
+    padding: 5px;
+    margin: 0px;
+    text-align: center;
+ }
+h3 span {
+    font-weight: 400;
+}
+h3 small{
+    font-size:10pt;
+    text-align: center;
+    display: block;
+    font-weight: 400;
+}
+ strong {
+     color:#f8ba01
+ }
+
+ footer {
+     border-top: 1px solid silver;
+     text-align: right;
+ }
+ footer a {
+     margin: 5px;
+ }
+ div {
+     font-size: 12pt;
+     text-align: center;
+     padding: 10px;
+ }

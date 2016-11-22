@@ -1,3 +1,5 @@
+var storage = chrome.storage.local;
+
 function gatear(){
     var node,
         ni = document.createNodeIterator(document.documentElement, NodeFilter.SHOW_TEXT);
@@ -10,4 +12,9 @@ function gatear(){
     }
 }
 
-gatear();
+storage.get("automatic", function(result) {
+    if (result.automatic || typeof result.automatic == "undefined"){
+        gatear();
+    }
+});
+
