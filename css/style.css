@@ -1,5 +1,5 @@
  html,body{
-     min-width:350px;
+     min-width:360px;
      margin: 0px;
      background-color: white
  }
@@ -59,8 +59,30 @@ h3 small{
  footer a {
      margin: 5px;
  }
- div {
+ .titulo {
      font-size: 12pt;
      text-align: center;
      padding: 10px;
  }
+.outer {
+    border: solid 1px grey;
+    width: calc(100% - 50px);
+    margin-left: 15px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    background-color: #ffcd00;
+}
+a.juego {
+    color: black;
+}
+.publi {
+    height: 45px;
+    background-image: url(http://macrigato.com.ar/macricatgo/img/logo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-origin: padding-box;
+    display: inline-block;
+    padding-left: 55px;
+    font-size: 12pt;
+}
