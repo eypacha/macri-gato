@@ -12,6 +12,10 @@
 .ss {
     font-size: 10pt;
 }
+
+.margin-10 {
+    margin: 10px;
+}
 #modoAutomaticoLabel{
     color: darkgreen;
 }
