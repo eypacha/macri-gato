@@ -6,7 +6,7 @@ function gatear(){
         var value = node.nodeValue
         if (value.match(/macri/i)) {
             
-            node.nodeValue = value.replace(/(M|m)acris(mo|ta)/gi,'$1acrigatis$2').replace(/(Mauri(cio)? )?Macri (Gato|gato)?/g,'Macri Gato');
+            node.nodeValue = value.replace(/(M|m)acris(mo|ta)/gi,'$1acrigatis$2').replace(/(Mauri(cio)? )?Macri(?! Gato)/g,'Macri Gato');
         }
     }
 }
