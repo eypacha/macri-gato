@@ -36,7 +36,10 @@ Colaboradores: Leonardo Almiñana, [Gabriel La Torre](https://github.com/shizus)
 * Modo manual tocando en el ícono de la extensión.
 * Otros cambios menores.
 
-# Repercuciones mediáticas:
+# Repercusiones mediáticas:
+
+**Medios audiovisuales**
+* América TV. [Apareció el creador de 'Macri Gato'](https://www.youtube.com/watch?v=DEOSNAA-_IQ). 28/06/2017
 
 **Medios gráficos**
 * Revista Noticias. [La zoofilia de los pavos](https://noticias.perfil.com/2018/12/06/la-zoofilia-de-los-pavos/). 6/12/2018
