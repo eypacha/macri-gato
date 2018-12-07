@@ -39,6 +39,7 @@ Colaboradores: Leonardo Almiñana, [Gabriel La Torre](https://github.com/shizus)
 # Repercuciones mediáticas:
 
 **Medios gráficos**
+* Revista Noticias. [La zoofilia de los pavos](https://noticias.perfil.com/2018/12/06/la-zoofilia-de-los-pavos/). 6/12/2018
 * Revista Noticias. [El inventor de Macri Gato: “No creo que se pueda sacar el apodo”](https://noticias.perfil.com/2017/06/27/el-inventor-de-macri-gato-no-creo-que-se-pueda-sacar-el-apodo/). 27/06/2017
 * Página /12. [Hacer cosas grandes de nuevo](https://www.pagina12.com.ar/11238-hacer-cosas-grandes-de-nuevo). 29/12/2016 
 
