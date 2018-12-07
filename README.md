@@ -10,7 +10,7 @@ Extensión para Google Chrome o Mozilla Firefox que cambia “Mauricio Macri” 
 ![Screenshot](https://raw.githubusercontent.com/eypacha/macri-gato/master/screenshots/google-888.jpg)
 
 # Contacto:
-Si tienes alguna sugerencia, crítica o consulta no dudes en [escribirme un correo](mailto:pachaguionbajo@gmail.com?Subject=Macri%20Gato).
+Si tienes alguna sugerencia, crítica o consulta no dudes en [escribirme un correo](mailto:info@macrigato.com.ar?Subject=Macri%20Gato).
 
 # Créditos:
 Hecho por: [Ey Pacha!](http://eypacha.com.ar)
@@ -37,6 +37,10 @@ Colaboradores: Leonardo Almiñana, [Gabriel La Torre](https://github.com/shizus)
 * Otros cambios menores.
 
 # Repercuciones mediáticas:
+
+**Medios gráficos**
+* Revista Noticias. [El inventor de Macri Gato: “No creo que se pueda sacar el apodo”](https://noticias.perfil.com/2017/06/27/el-inventor-de-macri-gato-no-creo-que-se-pueda-sacar-el-apodo/). 27/06/2017
+* Página /12. [Hacer cosas grandes de nuevo](https://www.pagina12.com.ar/11238-hacer-cosas-grandes-de-nuevo). 29/12/2016 
 
 **Programas de Radio**
 * Furia Bebé de FuturoRock.fm [Recorte](https://soundcloud.com/ey-pacha/macrigato-en-furia-bebe). 27/10/2016.
