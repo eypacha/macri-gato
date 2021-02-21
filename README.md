@@ -51,8 +51,9 @@ Colaboradores: Leonardo Almiñana, [Gabriel La Torre](https://github.com/shizus)
 * La Noche de Japón de Patagonia POP 90.3. [Recorte](https://soundcloud.com/ey-pacha/macrigato-en-la-noche-de-japon). 04/11/2016
 
 **Medios digitales**
+* El Destape. [Día del Gato: el autor de "Macri gato" recordó la creación del apodo al ex presidente](https://www.eldestapeweb.com/atr/mauricio-macri/dia-del-gato-el-autor-de-macri-gato-recordo-la-creacion-del-apodo-al-ex-presiente-202122017240) 20/02/2021
 * Diario Registrado. [Otra aplicación de Google que juega a agregarle palabras a todo lo que diga Macri](http://www.diarioregistrado.com/sociedad/otra-aplicacion-de-google-que-juega-a-agregarle-palabras-a-todo-lo-que-diga-macri_a5808e4400c297bac2b684fd9). 20/10/2016 
-* Prensa Obrera [“Macri Gato”: la tecnología al servicio de la protesta (con humor)](http://www.po.org.ar/prensaObrera/online/cultura/macri-gato-la-tecnologia-al-servicio-de-la-protesta-con-humor). 27/10/1986
+* Prensa Obrera [“Macri Gato”: la tecnología al servicio de la protesta (con humor)](https://prensaobrera.com/cultura/macri-gato-la-tecnologia-al-servicio-de-la-protesta-con-humor/). 27/10/2016
 * InfoNews. [Increíble: una app modifica los títulos web y les pone “Macri Gato”](www.infonews.com/nota/303057). 28/10/2016.
 * El Diario 24. [Una aplicación para ponerle 'Macri Gato' a los titulares de prensa](http://www.eldiario24.com/nota/argentina/386596/aplicacion-para-ponerle-macri-gato-titulares-prensa.htm). 29/10/2016.
 * Sin Censura. [Llegó “Macri Gato” la app que está cambiando la vida de los cibernautas Nac & Pop](http://sincensura.com.ar/2016/10/29/llego-cambiando-cibernautas/). 29/10/2016.
